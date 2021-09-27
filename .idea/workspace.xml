@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2f4b3ed-33f5-4544-b110-70a6732a375c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/part1_Basics/d_variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/part1_Basics/d_variables.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part1_Basics/f_operators_comparison.py" beforeDir="false" afterPath="$PROJECT_DIR$/part1_Basics/f_operators_comparison.py" afterDir="false" />
-    </list>
+    <list default="true" id="e2f4b3ed-33f5-4544-b110-70a6732a375c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +18,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/part1_Basics" />
   </component>
   <component name="RunManager" selected="Python.h_conditionals">
     <configuration name="d_variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
