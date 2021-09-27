@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2f4b3ed-33f5-4544-b110-70a6732a375c" name="Changes" comment="" />
+    <list default="true" id="e2f4b3ed-33f5-4544-b110-70a6732a375c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/submissions/.idea/part1_Basics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submissions/a_conditionals/h_conditionals.jiyun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submissions/h_conditionals.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +22,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/part1_Basics" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Python.h_conditionals">
     <configuration name="d_variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -157,6 +161,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
