@@ -3,17 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e2f4b3ed-33f5-4544-b110-70a6732a375c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/submissions/a_conditionals/h_conditionals.jiyun.py" beforeDir="false" afterPath="$PROJECT_DIR$/submissions/a_conditionals/conditionals_jiyun.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/submissions/a_header.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/submissions/b_libraries.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/submissions/c_own_code.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/submissions/d_variables.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/submissions/e_operators_arithmetic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/submissions/f_operators_comparison.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/submissions/g_built_in_functions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/submissions/h_conditionals.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/submissions/i_for_loops.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/submissions/j_while_loops.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
