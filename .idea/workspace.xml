@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2f4b3ed-33f5-4544-b110-70a6732a375c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/submissions/.idea/part1_Basics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submissions/a_conditionals/h_conditionals.jiyun.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/submissions/h_conditionals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submissions/a_conditionals/h_conditionals.jiyun.py" beforeDir="false" afterPath="$PROJECT_DIR$/submissions/a_conditionals/conditionals_jiyun.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submissions/a_header.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/submissions/b_libraries.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/submissions/c_own_code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/submissions/d_variables.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/submissions/e_operators_arithmetic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/submissions/f_operators_comparison.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/submissions/g_built_in_functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/submissions/h_conditionals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/submissions/i_for_loops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/submissions/j_while_loops.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,20 +33,25 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.h_conditionals">
-    <configuration name="d_variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jiyun\OneDrive\바탕 화면\Python\Programming_with_python_2122\submissions\a_conditionals" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.i_for_loops">
+    <configuration name="conditionals_diegoparito" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Programming_with_python_2122" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part1_Basics" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="C:\Users\jiyun\anaconda3\envs\precourse\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/submissions/a_conditionals" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1_Basics/d_variables.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/submissions/a_conditionals/conditionals_diegoparito.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -46,19 +60,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="e_operators_arithmetic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="conditionals_jiyun" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming_with_python_2122" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part1_Basics" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="C:\Users\jiyun\anaconda3\envs\precourse\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/submissions/a_conditionals" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1_Basics/e_operators_arithmetic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/submissions/a_conditionals/conditionals_jiyun.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,9 +88,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\jiyun\anaconda3\envs\precourse\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part1_Basics" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1_Basics/f_operators_comparison.py" />
@@ -95,9 +109,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\jiyun\anaconda3\envs\precourse\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part1_Basics" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1_Basics/g_built_in_functions.py" />
@@ -116,9 +130,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\jiyun\anaconda3\envs\precourse\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part1_Basics" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1_Basics/h_conditionals.py" />
@@ -130,13 +144,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="i_for_loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programming_with_python_2122" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jiyun\anaconda3\envs\precourse\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part1_Basics" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1_Basics/i_for_loops.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.conditionals_diegoparito" />
+      <item itemvalue="Python.conditionals_jiyun" />
+      <item itemvalue="Python.f_operators_comparison" />
+      <item itemvalue="Python.g_built_in_functions" />
+      <item itemvalue="Python.h_conditionals" />
+      <item itemvalue="Python.i_for_loops" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.i_for_loops" />
+        <item itemvalue="Python.conditionals_jiyun" />
         <item itemvalue="Python.h_conditionals" />
         <item itemvalue="Python.g_built_in_functions" />
         <item itemvalue="Python.f_operators_comparison" />
-        <item itemvalue="Python.e_operators_arithmetic" />
-        <item itemvalue="Python.d_variables" />
       </list>
     </recent_temporary>
   </component>
@@ -185,6 +228,11 @@
           <url>file://$PROJECT_DIR$/part1_Basics/h_conditionals.py</url>
           <line>41</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/submissions/a_conditionals/conditionals_jiyun.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
